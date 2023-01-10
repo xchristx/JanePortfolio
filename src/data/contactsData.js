@@ -1,7 +1,7 @@
 export const contactsData = {
     email: 'sreerag.rajan5@gmail.com',
-    phone: '+91 9663437669',
-    address: '412 Ground Floor, Indraprastha Colony, Sector 30-33, Faridabad, Haryana, 121003',
+    phone: '+591 76474447',
+    address: 'T. Beltran #847 Cochabamba - Bolivia',
 
     sheetAPI: ''
 }

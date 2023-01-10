@@ -1,5 +1,5 @@
 export const achievementData = {
-    bio : "The illiterate of the 21st century will not be those who cannot read and write, but those who cannot learn, unlearn, and relearn. - Alvin Toffler",
+    bio : "“Los analfabetos del siglo XXI no serán los que no sepan leer y escribir, sino los que no sepan aprender, desaprender y reaprender”. -Alvin Tofer",
     achievements : [
         {
             id : 1,
